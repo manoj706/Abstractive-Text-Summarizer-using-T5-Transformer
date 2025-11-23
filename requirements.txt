@@ -4,3 +4,6 @@ rouge_score
 nltk
 evaluate
 sacrebleu
+transformers
+torch
+streamlit
