@@ -1,0 +1,6 @@
+transformers[torch]
+datasets
+rouge_score
+nltk
+evaluate
+sacrebleu
