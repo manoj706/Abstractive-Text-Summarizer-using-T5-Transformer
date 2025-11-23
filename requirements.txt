@@ -7,3 +7,4 @@ sacrebleu
 transformers
 torch
 streamlit
+sentencepiece
